@@ -1,0 +1,2 @@
+#for gzipped files split into separate parts, unzip them like this:
+cat SILVA_128_SSURef_tax_silva_full_align_trunc_euks.filtered.fasta.gz.part-a* | gunzip -c > SILVA_128_SSURef_tax_silva_full_align_trunc_euks.filtered.fasta

@@ -1927,7 +1927,7 @@ AB076620	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Ostracoda; __Podo
 KF765773	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Malacostraca; __Athelges; __Athelges; __Athelges_takanoshimensis
 AB076625	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Ostracoda; __Podocopida; __Semicytherura; __Semicytherura_striata
 AB076629	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Ostracoda; __Podocopida; __Loxocorniculum; __Loxocorniculum_mutsuense
-KM245128	1; __Woloszynskia; __Woloszynskia; __Woloszynskia; __Woloszynskia; __Woloszynskia; __Woloszynskia; __Chytriodinium_sp._Atlantic
+KM245128	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Woloszynskia; __Chytriodinium_sp._Atlantic
 AB076650	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Ostracoda; __Podocopida; __Pistocythereis; __Pistocythereis_bradyformis
 KM249872	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Peridiniales; __Cystodinium; __Cystodinium_bataviense
 AC186791	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __Embryophyta; __Liliopsida; __Zea; __Zea_mays
@@ -2217,7 +2217,7 @@ AB290454	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Labyrinthulaceae; 
 AB290456	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Labyrinthulaceae; __Labyrinthula; __Labyrinthula; __Labyrinthula; __Labyrinthula_sp._L96-2
 JX828177	Eukaryota; __Archaeplastida; __Rhodophyceae; __Florideophycidae; __Rhodymeniophycidae; __Ophidocladus; __Ophidocladus; __Ophidocladus_simpliciusculus
 AM182262	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Bivalvia; __Veneroida; __Cerastoderma; __Cerastoderma_edule
-AB425950	1; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Lobosea_sp._Mb_5C
+AB425950	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Ischnamoeba; __Lobosea_sp._Mb_5C
 EF209764	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Coleoptera; __Protosilvanus; __Protosilvanus_lateritius
 U53122	Eukaryota; __Cryptophyceae; __Cryptomonadales; __Komma; __Komma; __Komma; __Komma; __Komma_caudata
 U53125	Eukaryota; __Cryptophyceae; __Cryptomonadales; __Hanusia; __Hanusia; __Hanusia; __Hanusia; __Hanusia_phi
@@ -2462,7 +2462,7 @@ KP406531	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Bivalvia; __Pectino
 AB605811	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Gonyaulacales; __Gambierdiscus; __Gambierdiscus_scabrosus
 AB003950	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Sordariomycetes; __Hypocreales; __Bionectria; __Clonostachys_rosea
 EF426291	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Bivalvia; __Veneroida; __Meretrix; __Meretrix_meretrix_(Asiatic_hard_clam)
-AB626150	1; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium_sp._PA-041
+AB626150	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Spiniferodinium; __Spiniferodinium_sp._PA-041
 KR780959	Eukaryota; __Opisthokonta; __Metazoa; __Platyhelminthes; __Cestoda; __Pseudophyllidea; __Bothriocephalus; __Bothriocephalus_travassosi
 EF429097	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Bivalvulida; __Parvicapsula; __Parvicapsula_bicornis
 KC177275	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hymenoptera; __Nannochorista; __Nannochorista_philpotti
@@ -2718,7 +2718,7 @@ KJ150275	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Malacova
 KJ150277	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Malacovalvulida; __Malacosporea; __Malacosporea_sp._3_HH-2014
 AB919106	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Gonyaulacales; __Dapsilidinium; __Dapsilidinium_pastielsii
 KJ150289	Eukaryota; __Rhizaria; __Cercozoa; __Ascetosporea; __Ascetosporea; __Haplosporida; __Haplosporidium; __Haplosporidium_littoralis
-AB921301	1; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Spiniferodinium; __Nusuttodinium_myriopyrenoides
+AB921301	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Spiniferodinium; __Nusuttodinium_myriopyrenoides
 AY043206	Eukaryota; __Alveolata; __Apicomplexa; __Conoidasida; __Coccidia; __Eimeriorina; __Goussia; __Goussia_janae
 KP725843	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Malacostraca; __Rhynchocinetes; __Rhynchocinetes; __Rhynchocinetes_aff._brucei_BOLD:ACR5036
 KP725853	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Malacostraca; __Stylodactylus; __Stylodactylus; __Stylodactylus_sp._BOLD:ACR5269
@@ -2745,7 +2745,7 @@ KC309525	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Coscinodiscophy
 EF534075	Eukaryota; __Rhizaria; __Retaria; __Foraminifera; __Globothalamea; __Rotaliida; __Oridorsalis; __Oridorsalis_umbonatus
 KT030252	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Maxillopoda; __Calanoida; __Acartia; __Acartia_erythraea
 JQ425617	Eukaryota; __Rhizaria; __Cercozoa; __Imbricatea; __Silicofilosea; __Euglyphida; __Paulinella; __Paulinella_sp._HSY-2012
-KP728379	1; __Lecythium; __Lecythium; __Lecythium; __Lecythium; __Lecythium; __Lecythium; __Lecythium_terrestris
+KP728379	Eukaryota; __Rhizaria; __Cercozoa; __Thecofilosea; __Incertae_Sedis; __Incertae_Sedis; __Lecythium; __Lecythium_terrestris
 AB636917	Eukaryota; __Rhizaria; __Retaria; __Foraminifera; __Globothalamea; __Globorotaliidae; __Pulleniatina; __Pulleniatina_obliquiloculata
 AY057089	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Gastropoda; __Heterobranchia; __Galba; __Galba_viatrix
 AB086213	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Sordariomycetes; __Hypocreales; __Isaria; __Isaria_tenuipes
@@ -2971,7 +2971,7 @@ AY145380	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Polyplacophora; __N
 AF022192	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Gonyaulacales; __Neoceratium; __Ceratium_tenue
 AY145387	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Cephalopoda; __Vampyromorpha; __Vampyroteuthis; __Vampyroteuthis_infernalis
 AB205368	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Lecanoromycetes; __Lecanorales; __Anzia; __Anzia_stenophylla
-AF022199	1; __Lepidodinium; __Lepidodinium; __Lepidodinium; __Lepidodinium; __Lepidodinium; __Lepidodinium; __Lepidodinium_viride
+AF022199	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Lepidodinium; __Lepidodinium_viride
 AB205371	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Lecanoromycetes; __Lecanorales; __Hypogymnia; __Hypogymnia_physodes
 AF022202	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Peridiniales; __Peridinium; __Peridinium_sp.
 AY145524	Eukaryota; __Amoebozoa; __Myxogastria; __Physarella; __Physarella; __Physarella; __Physarella; __Physarella_sp._BX-2002
@@ -3014,7 +3014,7 @@ AP017023	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __
 AY148954	Eukaryota; __Amoebozoa; __Discosea; __Longamoebia; __Centramoebida; __Acanthamoeba; __Acanthamoeba; __Acanthamoeba_sp._KA/E5
 AY148958	Eukaryota; __Amoebozoa; __Discosea; __Longamoebia; __Centramoebida; __Acanthamoeba; __Acanthamoeba; __Acanthamoeba_sp._KA/E11
 KP829218	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Coleoptera; __Serrotibia; __Serrotibia_sp._CO1009
-KT210074	1; __Palustrimonas; __Palustrimonas; __Palustrimonas; __Palustrimonas; __Palustrimonas; __Palustrimonas; __Palustrimonas_yorkeensis
+KT210074	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Palustrimonas; __Palustrimonas_yorkeensis
 FJ977643	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Gastropoda; __Vetigastropoda; __Hemitoma; __Hemitoma_octoradiata
 EZ383607	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __Embryophyta; __Asterales; __Artemisia; __Artemisia_annua_(sweet_wormwood)
 HM437187	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Anthozoa; __Alcyonacea; __Paragorgia; __Paragorgia_arborea
@@ -3092,13 +3092,13 @@ KC522708	Eukaryota; __Opisthokonta; __Metazoa; __Nematoda; __Chromadorea; __Rhab
 AY051086	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Suessiaceae; __Symbiodinium; __Symbiodinium_sp.
 KP864084	Eukaryota; __Amoebozoa; __Discosea; __Flabellinia; __Dactylopodida; __Angulamoeba; __Angulamoeba; __Angulamoeba_fungorum
 KC524734	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Bivalvulida; __Sphaeromyxa; __Sphaeromyxa_lycodi
-KP864094	1; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba; __Ischnamoeba_sp._FN352
+KP864094	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Ischnamoeba; __Ischnamoeba_sp._FN352
 KP864095	Eukaryota; __Amoebozoa; __Gracilipodida; __Heliamoeba; __Heliamoeba; __Heliamoeba; __Heliamoeba; __Heliamoeba_mirabilis
 AF072883	Eukaryota; __Stramenopiles; __Bicosoecida; __Siluania; __Siluania; __Siluania; __Siluania; __Siluania_monomastiga
 FM201298	Eukaryota; __Alveolata; __Ciliophora; __Conthreep; __Nassophorea; __Pseudomicrothorax; __Pseudomicrothorax; __Pseudomicrothorax_dubius
 M84229	Eukaryota; __Opisthokonta; __Metazoa; __Nematoda; __Chromadorea; __Rhabditida; __Strongyloides; __Strongyloides_stercoralis
-KP864096	1; __Dictyamoeba; __Dictyamoeba; __Dictyamoeba; __Dictyamoeba; __Dictyamoeba; __Dictyamoeba; __Dictyamoeba_vorax
-KP864097	1; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba_reticulata
+KP864096	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Dictyamoeba; __Dictyamoeba_vorax
+KP864097	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Arboramoeba; __Arboramoeba_reticulata
 KP864099	Eukaryota; __Amoebozoa; __Gracilipodida; __Telaepolella; __Telaepolella; __Telaepolella; __Telaepolella; __Telaepolella_sp._Tib190
 FM201782	Eukaryota; __Alveolata; __Ciliophora; __Litostomatea; __Trichostomatia; __Triadinium; __Triadinium; __Triadinium_caudatum
 KP864101	Eukaryota; __Amoebozoa; __Cavosteliida; __Schizoplasmodiopsis; __Schizoplasmodiopsis; __Schizoplasmodiopsis; __Schizoplasmodiopsis; __Cavosteliaceae_sp._M71
@@ -3579,7 +3579,7 @@ JF790993	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_G
 JF790995	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_I; __Syndiniales_Group_I; __Takayama; __Takayama_cf._pulchellum
 JF790997	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_I; __Syndiniales_Group_I; __Karlodinium; __Karlodinium_veneficum
 JF791030	Eukaryota; __Cryptophyceae; __Cryptomonadales; __Geminigera; __Geminigera; __Geminigera; __Geminigera; __Geminigera_cryophila
-JF791033	1; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Lepidodinium_viride
+JF791033	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Gymnodinium; __Lepidodinium_viride
 AY252318	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hemiptera; __Loricula; __Loricula_elegantula
 JF791043	Eukaryota; __Stramenopiles; __Pirsonia; __Pirsonia; __Pirsonia; __Pirsonia; __Pirsonia; __Pirsonia_verrucosa
 X13457	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Arachnida; __Araneae; __Aphonopelma; __Aphonopelma_sp.
@@ -3600,7 +3600,7 @@ JO206788	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __
 AY252426	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hemiptera; __Serinthea; __Serinthea_sp._WCW-2003b
 DQ447648	Eukaryota; __Archaeplastida; __Chloroplastida; __Chlorophyta; __Chlorophyceae; __Chlamydomonadales; __Dunaliella; __Dunaliella_salina
 AF257315	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Thraustochytriaceae; __Thraustochytriaceae; __Thraustochytriaceae; __BS1; __Thraustochytriidae_sp._BS2
-FN392226	1; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium_aureolum
+FN392226	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Gymnodinium; __Gymnodinium_aureolum
 EU035493	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Strepsiptera; __Caenocholax; __Caenocholax_fenyesi_mexicanum
 JO209011	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __Desmidiales; __Desmidiales; __Penium; __Penium_margaritaceum
 KJ499821	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Bivalvulida; __Myxidium; __Myxidium_ceccarellii
@@ -3904,7 +3904,7 @@ FX535276	Eukaryota; __Stramenopiles; __Peronosporomycetes; __Phytophthora; __Phy
 AM423427	Eukaryota; __Archaeplastida; __Chloroplastida; __Phragmoplastophyta; __Embryophyta; __Vitales; __Vitis; __Vitis_vinifera_(wine_grape)
 AY454432	Eukaryota; __Archaeplastida; __Chloroplastida; __Chlorophyta; __Ulvophyceae; __Ulvales; __Phaeophila; __Phaeophila_dendroides
 FX535610	Eukaryota; __Stramenopiles; __Peronosporomycetes; __Phytophthora; __Phytophthora; __Phytophthora; __Phytophthora; __Pythium_insidiosum
-FJ467492	1; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Warnowia_sp._FG20
+FJ467492	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Erythropsidinium; __Warnowia_sp._FG20
 KF447167	Eukaryota; __Stramenopiles; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Blastocystis; __Blastocystis_ST7_strain_B
 AF373216	Eukaryota; __Archaeplastida; __Rhodophyceae; __Florideophycidae; __Rhodymeniophycidae; __Lophothalia; __Lophothalia; __Lophothalia_hormoclados
 AF374480	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Bacillariophytina; __Mediophyceae; __Thalassiosira; __Thalassiosira_rotula
@@ -4059,7 +4059,7 @@ AY336711	Eukaryota; __Opisthokonta; __Ichthyosporea; __Ichthyosporea; __Ichthyop
 AB926241	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Arachnida; __Panonychus; __Panonychus; __Panonychus_thelytokus
 AB926246	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Arachnida; __Schizotetranychus; __Schizotetranychus; __Schizotetranychus_brevisetosus
 AB926251	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Arachnida; __Schizotetranychus; __Schizotetranychus; __Schizotetranychus_schizopus
-DQ785884	1; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium_impudicum
+DQ785884	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Gymnodinium; __Gymnodinium_impudicum
 KF500513	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Thraustochytriaceae; __Thraustochytriaceae; __Thraustochytriaceae; __Aurantiochytrium; __Schizochytrium_sp._SW1
 FR875352	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Labyrinthulaceae; __Labyrinthula; __Labyrinthula; __Labyrinthula; __Labyrinthula_zosterae
 AY338723	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Orthoptera; __Ellipes; __Ellipes_minuta
@@ -4101,7 +4101,7 @@ AF416389	Eukaryota; __Archaeplastida; __Chloroplastida; __Chlorophyta; __Ulvophy
 AB971677	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Multivalvulida; __Unicapsula; __Unicapsula_seriolae
 AB971679	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Multivalvulida; __Unicapsula; __Unicapsula_setoensis
 AF416395	Eukaryota; __Archaeplastida; __Chloroplastida; __Chlorophyta; __Ulvophyceae; __Bryopsidales; __Udotea; __Udotea_orientalis
-DQ822481	1; __Polykrikos; __Polykrikos; __Polykrikos; __Polykrikos; __Polykrikos; __Polykrikos; __Polykrikos_herdmaniae
+DQ822481	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Polykrikos; __Polykrikos_herdmaniae
 KC822466	Eukaryota; __Amoebozoa; __Discosea; __Longamoebia; __Centramoebida; __Acanthamoeba; __Acanthamoeba; __Acanthamoeba_sp._CDC:V621
 AB778894	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Exobasidiomycetes; __Exobasidiales; __Meira; __Meira_sp._JCM_18504
 LL879766	Eukaryota; __Opisthokonta; __Metazoa; __Platyhelminthes; __Trematoda; __Strigeidida; __Digenea; __Schistosoma_margrebowiei
@@ -4909,6 +4909,7 @@ KF156710	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Dipter
 AB275084	Eukaryota; __Alveolata; __Apicomplexa; __Novel_Apicomplexa_Class_1; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 AB275085	Eukaryota; __Alveolata; __Apicomplexa; __Conoidasida; __Gregarinasina; __Archigregarinorida; __Selenidium; __uncultured_eukaryote
 AB275086	Eukaryota; __D4P07G08; __D4P07G08; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
+AB275092	Eukaryota; __Stramenopiles; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Blastocystis; __Blastocystis_other_species
 AB275104	Eukaryota; __Alveolata; __Apicomplexa; __Conoidasida; __Gregarinasina; __Eugregarinorida; __uncultured; __uncultured_eukaryote
 AB275105	Eukaryota; __Alveolata; __Apicomplexa; __Conoidasida; __Gregarinasina; __Eugregarinorida; __uncultured; __uncultured_eukaryote
 AB275108	Eukaryota; __Alveolata; __Apicomplexa; __Conoidasida; __Cryptosporida; __Cryptosporidium; __Cryptosporidium; __uncultured_eukaryote
@@ -6019,7 +6020,7 @@ AJ404316	Eukaryota; __Rhizaria; __Retaria; __Foraminifera; __Tubothalamea; __Amp
 FJ211607	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Coleoptera; __Neotyphlini; __Neotyphlini_sp._VG-2008
 AJ417562	Eukaryota; __Opisthokonta; __Metazoa; __Cnidaria; __Myxozoa; __Bivalvulida; __Echinactinomyxon; __Echinactinomyxon_sp._'type_5'
 AJ496242	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Sordariomycetes; __Sordariales; __Coniochaeta; __Coniochaeta_ligniaria
-AJ418794	1; __Pseudodifflugia; __Pseudodifflugia; __Pseudodifflugia; __Pseudodifflugia; __Pseudodifflugia; __Pseudodifflugia; __Pseudodifflugia_cf._gracilis
+AJ418794	Eukaryota; __Rhizaria; __Cercozoa; __Thecofilosea; __Incertae_Sedis; __Incertae_Sedis; __Pseudodifflugia; __Pseudodifflugia_cf._gracilis
 AJ421949	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Odonata; __Chalcolestes; __Chalcolestes_viridis
 AJ421966	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hemiptera; __Microtomus; __Microtomus_luctuosus
 AJ422062	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Bivalvia; __Limoida; __Limatula; __Limatula_hodgsoni
@@ -6078,7 +6079,7 @@ AJ561116	Eukaryota; __Rhizaria; __Cercozoa; __Imbricatea; __Marimonadida; __Pseu
 FJ372639	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hemiptera; __Saldula; __Saldula_sp._YT-2009
 FJ372643	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Insecta; __Hemiptera; __Notonecta; __Notonecta_chinensis
 AJ564212	Eukaryota; __Opisthokonta; __Metazoa; __Platyhelminthes; __Monogenea; __Monopisthocotylea; __Euzetrema; __Euzetrema_knoepffleri
-AJ564771	1; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema_subtile
+AJ564771	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Telonema; __Telonema_subtile
 AJ749819	Eukaryota; __Opisthokonta; __Fungi; __Microsporidia; __Incertae_Sedis; __Incertae_Sedis; __Schroedera; __Schroedera_airthreyi
 GU808320	Eukaryota; __Amoebozoa; __Discosea; __Longamoebia; __Centramoebida; __Acanthamoeba; __Acanthamoeba; __Acanthamoeba_sp._Ac_P4
 AJ566084	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Malacostraca; __Archaeomysis; __Archaeomysis; __Archaeomysis_japonica
@@ -6239,7 +6240,7 @@ KJ757732	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __uncultured; _
 KJ757740	Eukaryota; __Alveolata; __Ciliophora; __Litostomatea; __Mesodiniidae; __uncultured; __uncultured; __uncultured_eukaryote
 KJ757896	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Bacillariophytina; __Bacillariophyceae; __Fragilariopsis; __uncultured_eukaryote
 FJ572900	Eukaryota; __Opisthokonta; __Metazoa; __Platyhelminthes; __Cestoda; __Trypanorhyncha; __Tetrarhynchobothrium; __Tetrarhynchobothrium_sp._HP9
-KJ757991	1; __SCM16C66; __SCM16C66; __SCM16C66; __SCM16C66; __SCM16C66; __SCM16C66; __uncultured_eukaryote
+KJ757991	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __SCM16C66; __uncultured_eukaryote
 KJ758005	Eukaryota; __Alveolata; __Ciliophora; __Spirotrichea; __Oxytrichidae; __uncultured; __uncultured; __uncultured_eukaryote
 KJ758011	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_I; __Syndiniales_Group_I; __uncultured; __uncultured_eukaryote
 KJ758134	Eukaryota; __Alveolata; __NIF-4C10; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
@@ -6472,7 +6473,7 @@ AM168078	Eukaryota; __Amoebozoa; __Dictyostelia; __Dictyostelium; __Dictyosteliu
 AM168102	Eukaryota; __Amoebozoa; __Dictyostelia; __Polysphondylium; __Polysphondylium; __Polysphondylium; __Polysphondylium; __Polysphondylium_sp._arachnoideum
 AM168109	Eukaryota; __Amoebozoa; __Dictyostelia; __Acytostelium; __Acytostelium; __Acytostelium; __Acytostelium; __Acytostelium_longisorophorum
 AM168110	Eukaryota; __Amoebozoa; __Protosporangiida; __Protosporangiidae; __Protosporangium; __Protosporangium; __Protosporangium; __Acytostelium_subglobosum
-KJ761477	1; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __uncultured_eukaryote
+KJ761477	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Telonema; __uncultured_eukaryote
 FJ775712	Eukaryota; __Alveolata; __Ciliophora; __Spirotrichea; __Hypotrichia; __Anteholosticha; __Anteholosticha; __Anteholosticha_cf._azerbaijanica
 FJ775717	Eukaryota; __Alveolata; __Ciliophora; __Spirotrichea; __Hypotrichia; __Holosticha; __Holosticha; __Holosticha_cf._heterofoissneri
 KT265343	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Sordariomycetes; __Diaporthales; __Diaporthales; __Diaporthales_sp._E6927e
@@ -6615,7 +6616,7 @@ KJ763126	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_G
 KJ763127	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
 KJ763131	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
 KJ763133	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Katodinium; __Katodinium; __uncultured_eukaryote
-KJ763137	1; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __uncultured_eukaryote
+KJ763137	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Telonema; __uncultured_eukaryote
 KJ763161	Eukaryota; __DH147-EKD10; __DH147-EKD10; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 KJ763162	Eukaryota; __Alveolata; __Ciliophora; __Conthreep; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 KJ763184	Eukaryota; __Archaeplastida; __Chloroplastida; __Chlorophyta; __Mamiellophyceae; __Mamiellales; __Ostreococcus; __uncultured_eukaryote
@@ -6694,7 +6695,7 @@ KJ763708	Eukaryota; __Stramenopiles; __Ochrophyta; __Chrysophyceae; __E222; __E2
 KJ763709	Eukaryota; __Rhizaria; __Retaria; __Polycystinea; __Spumellaria; __Rhizosphaera; __Rhizosphaera; __uncultured_eukaryote
 KJ763714	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
 KJ763718	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
-KJ763724	1; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __uncultured_eukaryote
+KJ763724	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Telonema; __uncultured_eukaryote
 KJ763730	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Incertae_Sedis; __Incertae_Sedis; __Halostylodinium; __uncultured_eukaryote
 KJ763735	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
 KJ763740	Eukaryota; __Haptophyta; __Prymnesiophyceae; __Prymnesiales; __OLI51059; __OLI51059; __OLI51059; __uncultured_eukaryote
@@ -6878,7 +6879,7 @@ EF526860	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphy
 EF526862	Eukaryota; __Alveolata; __Ciliophora; __Heterotrichea; __Peritromus; __Peritromus; __Peritromus; __uncultured_marine_eukaryote
 EF526863	Eukaryota; __Alveolata; __Ciliophora; __Conthreep; __Oligohymenophorea; __Scuticociliatia; __Cardiostomatella; __uncultured_marine_eukaryote
 EF526864	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Bacillariophytina; __Mediophyceae; __Cyclotella; __uncultured_marine_eukaryote
-EF526865	1; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __Gymnodinium; __uncultured_marine_eukaryote
+EF526865	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Gymnodinium; __uncultured_marine_eukaryote
 EF526866	Eukaryota; __Opisthokonta; __Choanoflagellida; __Acanthoecida; __Acanthoecidae; __FV23-1A4; __FV23-1A4; __uncultured_marine_eukaryote
 EF526867	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_I; __Syndiniales_Group_I; __uncultured; __uncultured_marine_eukaryote
 EF526869	Eukaryota; __Opisthokonta; __Choanoflagellida; __Acanthoecida; __Acanthoecidae; __uncultured; __uncultured; __uncultured_marine_eukaryote
@@ -6965,7 +6966,7 @@ AB695489	Eukaryota; __Alveolata; __Protalveolata; __Colpodellida; __Colpodella; 
 AB695491	Eukaryota; __Stramenopiles; __Ochrophyta; __Chrysophyceae; __Chromulinales; __LG31-02; __LG31-02; __uncultured_eukaryote
 AB695492	Eukaryota; __Opisthokonta; __Metazoa; __Tardigrada; __Eutardigrada; __Parachela; __uncultured; __uncultured_eukaryote
 AB695493	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __uncultured_eukaryote
-AB695494	1; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __uncultured_eukaryote
+AB695494	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Arboramoeba; __uncultured_eukaryote
 AB695500	Eukaryota; __Alveolata; __Ciliophora; __Spirotrichea; __Hypotrichia; __uncultured; __uncultured; __uncultured_eukaryote
 AB695514	Eukaryota; __Opisthokonta; __Fungi; __Cryptomycota; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 AB695520	Eukaryota; __Rhizaria; __Cercozoa; __Novel_Clade_10; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
@@ -6973,7 +6974,7 @@ AB695521	Eukaryota; __Rhizaria; __Cercozoa; __Vampyrellidae; __uncultured; __unc
 AB695525	Eukaryota; __Rhizaria; __Cercozoa; __Phytomyxea; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 AB695527	Eukaryota; __Rhizaria; __Cercozoa; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 AB695537	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __uncultured_eukaryote
-AB695538	1; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __uncultured_eukaryote
+AB695538	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Arboramoeba; __uncultured_eukaryote
 EF638601	Eukaryota; __Opisthokonta; __Fungi; __Chytridiomycota; __uncultured; __Incertae_Sedis; __uncultured; __uncultured_Chytridiomycota
 AB706400	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_eukaryote
 KC582890	Eukaryota; __Alveolata; __Protalveolata; __Syndiniales; __Syndiniales_Group_II; __Syndiniales_Group_II; __uncultured; __uncultured_alveolate
@@ -7062,7 +7063,7 @@ DQ198784	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Microbotryomycet
 DQ198791	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Mycogloea; __Mycogloea; __Mycogloea; __Mycogloea_sp._TUB_FO40962
 DQ198796	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Atractiellomycetes; __Atractiellales; __Atractiella; __Atractiellales_sp._AH33906
 FN690014	Eukaryota; __Alveolata; __Ciliophora; __Conthreep; __Oligohymenophorea; __Peniculia; __uncultured; __uncultured_alveolate
-FN690160	1; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __Erythropsidinium; __uncultured_alveolate
+FN690160	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Gymnodiniphycidae; __Gymnodinium_clade; __Erythropsidinium; __uncultured_alveolate
 FN690234	Eukaryota; __Alveolata; __Dinoflagellata; __Dinophyceae; __Peridiniphycidae; __Thoracosphaeraceae; __Scrippsiella; __uncultured_alveolate
 DQ234543	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Agaricostilbomycetes; __Agaricostilbales; __Bensingtonia; __Kondoa_yuccicola
 DQ234564	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Microbotryomycetes; __Heterogastridiales; __Colacogloea; __Colacogloea_peniophorae
@@ -7419,7 +7420,6 @@ AJ549800	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Lecanoromycetes; __
 GU250348	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Dothideomycetes; __Capnodiales; __Vermiconia; __Vermiconia_foris
 GU250355	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Dothideomycetes; __Capnodiales; __Monticola; __Monticola_elongata
 FR874434	Eukaryota; __Rhizaria; __Cercozoa; __Imbricatea; __Nudifila; __Nudifila; __Nudifila; __uncultured_marine_picoeukaryote
-FR874437	Eukaryota; __Stramenopiles; __MAST-12; __MAST-12A; __uncultured; __uncultured; __uncultured; __uncultured_marine_picoeukaryote
 FR874457	Eukaryota; __Rhizaria; __Cercozoa; __Novel_Clade_2; __uncultured; __uncultured; __uncultured; __uncultured_marine_picoeukaryote
 FR874476	Eukaryota; __Rhizaria; __Cercozoa; __Novel_Clade_2; __uncultured; __uncultured; __uncultured; __uncultured_marine_picoeukaryote
 FR874479	Eukaryota; __Stramenopiles; __MAST-12; __MAST-12B; __uncultured; __uncultured; __uncultured; __uncultured_marine_picoeukaryote
@@ -7446,7 +7446,7 @@ JN054696	Eukaryota; __Rhizaria; __Cercozoa; __Glissomonadida; __Bodomorpha; __Bo
 HE806320	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Saccharomycetes; __Saccharomycetales; __Tetrapisispora; __Tetrapisispora_blattae_CBS_6284
 AM114808	Eukaryota; __Amoebozoa; __Gracilipodida; __LEMD267; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 AM114809	Eukaryota; __Amoebozoa; __Gracilipodida; __Flamella; __Flamella; __Flamella; __Flamella; __uncultured_eukaryote
-AM114811	1; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __uncultured_eukaryote
+AM114811	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Arboramoeba; __uncultured_eukaryote
 HG529728	Eukaryota; __Opisthokonta; __Fungi; __Basidiomycota; __Ustilaginomycetes; __Ustilaginales; __Melanopsichium; __Melanopsichium_pennsylvanicum_4
 AM161471	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Dothideomycetes; __Pleosporales; __uncultured; __uncultured_endophytic_fungus
 HM009317	Eukaryota; __Opisthokonta; __Fungi; __Ascomycota; __Saccharomycetes; __Saccharomycetales; __Pichia; __Pichia_sp._'jaroonii'
@@ -7973,7 +7973,7 @@ GU825041	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Bacillariophyti
 GU825067	Eukaryota; __Rhizaria; __Retaria; __Polycystinea; __Collodaria; __E84; __E84; __uncultured_eukaryote
 GU825093	Eukaryota; __Stramenopiles; __MAST-3; __MAST-3J; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
 GU825141	Eukaryota; __Opisthokonta; __Metazoa; __Mollusca; __Gastropoda; __uncultured; __uncultured; __uncultured_eukaryote
-GU825166	1; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __Telonema; __uncultured_eukaryote
+GU825166	Eukaryota; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Telonema; __uncultured_eukaryote
 GU825237	Eukaryota; __Stramenopiles; __Ochrophyta; __Diatomea; __Bacillariophytina; __Mediophyceae; __Chaetoceros; __uncultured_eukaryote
 GU825264	Eukaryota; __Excavata; __Discicristata; __Euglenozoa; __Diplonemea; __SCM38C39_marine_group; __SCM38C39_marine_group; __uncultured_eukaryote
 GU825279	Eukaryota; __Rhizaria; __Retaria; __RAD_A; __uncultured; __uncultured; __uncultured; __uncultured_eukaryote
@@ -8376,7 +8376,7 @@ EF023363	Eukaryota; __Opisthokonta; __Metazoa; __Arthropoda; __Arachnida; __Limu
 EF023397	Eukaryota; __Rhizaria; __Cercozoa; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_Eimeriidae
 EF023410	Eukaryota; __Opisthokonta; __Fungi; __Zoopagales; __Zoopagales; __Zoopagales; __uncultured; __uncultured_Eimeriidae
 EF023422	Eukaryota; __Rhizaria; __Cercozoa; __Glissomonadida; __Amb-18S-1124; __Amb-18S-1124; __Amb-18S-1124; __uncultured_Auriculariaceae
-EF023424	1; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __Arboramoeba; __uncultured_Acanthamoeba
+EF023424	Eukaryota; __Amoebozoa; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Incertae_Sedis; __Arboramoeba; __uncultured_Acanthamoeba
 EF023427	Eukaryota; __DH147-EKD10; __DH147-EKD10; __uncultured; __uncultured; __uncultured; __uncultured; __uncultured_Closteriaceae
 EF023442	Eukaryota; __Stramenopiles; __Labyrinthulomycetes; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __Sorodiplophrys; __uncultured_Eimeriidae
 EF023453	Eukaryota; __Rhizaria; __Cercozoa; __Imbricatea; __Silicofilosea; __Euglyphida; __Phaseoleae; __Phaseoleae_environmental_sample
